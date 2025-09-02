@@ -4,10 +4,10 @@ This repository contains AWS RDS (Relational Database Service) lab exercises and
 
 ## Labs
 
-- **lab1**: [Add description]
-- **lab2**: [Add description]
-- **lab3**: [Add description]
-- **lab4**: [Add description]
+- **lab1**
+- **lab2**
+- **lab3**
+- **lab4**
 
 ## Prerequisites
 
